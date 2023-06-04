@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **a lot of things related to cybersecurity and design**
 
-- 👨‍💻 All of my projects are available at [https://lenvake.com](https://lenvake.com)
-
 - ⚡ Fun fact **I can speak three languages, namely German, English, and Croatian**
 
 <h3 align="left">»»————-　Connect with me　————-««</h3>
